@@ -10,7 +10,7 @@ La herramienta calcula las curvas características del sistema y la bomba basán
 
 Puedes ejecutar este notebook directamente en Google Colab haciendo clic en el siguiente enlace:
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-DxvyLmrv3f1iUN1aAobftsUaLin39ZD/view?usp=sharing)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GKq44nUcjSFpky4kGRlSXEJ2aehwzjl6?usp=sharing)
 
 ## Cómo Usar
 
