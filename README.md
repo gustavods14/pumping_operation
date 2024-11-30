@@ -6,6 +6,12 @@ Este proyecto permite analizar y determinar el punto de operación de bombas cen
 
 La herramienta calcula las curvas características del sistema y la bomba basándose en datos del fabricante y en parámetros hidráulicos de la instalación. Además, genera gráficos interactivos para visualizar el punto de operación y otras características del sistema.
 
+## Cómo Usar el Proyecto en Google Colab
+
+Puedes ejecutar este notebook directamente en Google Colab haciendo clic en el siguiente enlace:
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-DxvyLmrv3f1iUN1aAobftsUaLin39ZD/view?usp=sharing)
+
 ## Cómo Usar
 
 Sigue estos pasos para configurar y ejecutar el proyecto:
